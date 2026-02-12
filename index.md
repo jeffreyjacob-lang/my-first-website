@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Jeffery Jacob
+###### Jeffery Jacob
 
 Welcome to my website — built from scratch during **National Apprenticeship Week 2026**.
 
